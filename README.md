@@ -95,7 +95,7 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(50).pdf" style="text-decoration:none;">3D Bounding Box Estimation Using Deep Learning and Geometry</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(51).pdf" style="text-decoration:none;">A Point Set Generation Network for 3D Object Reconstruction from a Single Imag</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(51).pdf" style="text-decoration:none;">A Point Set Generation Network for 3D Object Reconstruction from a Single Image</a></b></li>
  
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Machine-Learning-Papers/blob/master/3ml(52).pdf" style="text-decoration:none;"> SEGCloud: Semantic Segmentation of 3D Point Clouds</a></b></li>
