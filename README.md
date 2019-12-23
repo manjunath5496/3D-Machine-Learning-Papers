@@ -123,52 +123,52 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(65).pdf" style="text-decoration:none;">3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(22).pdf" style="text-decoration:none;">Machine Learning Of Heuristics</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(66).pdf" style="text-decoration:none;">Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(23).pdf" style="text-decoration:none;">Investigating Heuristic and Meta-Heuristic Algorithms for Solving Pickup and Delivery Problems</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(67).pdf" style="text-decoration:none;">DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation</a></b></li>
  
  
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(24).pdf" style="text-decoration:none;">Meta-heuristic Algorithms for Optimal Design of Real-Size Structures</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(68).pdf" style="text-decoration:none;">Scan2CAD: Learning CAD Model Alignment in RGB-D Scans</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(25).pdf" style="text-decoration:none;">Meta-Heuristics: Theory and Applications</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(26).pdf" style="text-decoration:none;">Modern Heuristic Optimization Techniques</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(27).pdf" style="text-decoration:none;">Probability Approximations via the Poisson Clumping Heuristic</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(28).pdf" style="text-decoration:none;">Rethinking Knowledge: The Heuristic View</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(69).pdf" style="text-decoration:none;">Volumetric and Multi-View CNNs for Object Classification on 3D Data</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(70).pdf" style="text-decoration:none;">OctNetFusion: Learning Depth Fusion from Data</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(71).pdf" style="text-decoration:none;">AttribIt: Content Creation with Semantic Attributes</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(72).pdf" style="text-decoration:none;">Co-Locating Style-Defining Elements on 3D Shapes</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(29).pdf" style="text-decoration:none;">Rule-based Expert Systems: The MYCIN Experiments of the Stanford Heuristic Programming Project</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(73).pdf" style="text-decoration:none;">Shape Completion using 3D-Encoder-Predictor CNNs and Shape Synthesis</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(30).pdf" style="text-decoration:none;">Simple Heuristics That Make Us Smart</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(31).pdf" style="text-decoration:none;">Solving Complex Decision Problems: A Heuristic Process</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(74).pdf" style="text-decoration:none;">FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(75).pdf" style="text-decoration:none;">PointGrid: A Deep Network for 3D Shape Understanding</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(32).pdf" style="text-decoration:none;">The Heuristics Debate</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(76).pdf" style="text-decoration:none;">Learning Material-Aware Local Descriptors for 3D Shapes</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(33).pdf" style="text-decoration:none;">The Linear Ordering Problem: Exact and Heuristic Methods in Combinatorial Optimization</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(77).pdf" style="text-decoration:none;">Geometric loss functions for camera pose regression with deep learning</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(34).pdf" style="text-decoration:none;">AM: An Artificial Intelligence Approach to Discovery in Mathematics as Heuristic Search</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(35).pdf" style="text-decoration:none;">Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(78).pdf" style="text-decoration:none;">A Probabilistic Model for Component-Based Shape Synthesis</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(79).pdf" style="text-decoration:none;">Using Locally Corresponding CAD Models for Dense 3D Reconstructions from a Single Image</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(36).pdf" style="text-decoration:none;">SECOND: Sparsely Embedded Convolutional Detection</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(80).pdf" style="text-decoration:none;">Modeling by Example</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(37).pdf" style="text-decoration:none;">Multiview Random Forest of Local Experts Combining RGB and LIDAR data for Pedestrian Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(81).pdf" style="text-decoration:none;">TextureGAN: Controlling Deep Image Synthesis with Texture Patches</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(38).pdf" style="text-decoration:none;">Multi-Task Multi-Sensor Fusion for 3D Object Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(82).pdf" style="text-decoration:none;">CSGNet: Neural Shape Parser for Constructive Solid Geometry</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(39).pdf" style="text-decoration:none;">Deep Continuous Fusion for Multi-Sensor 3D Object Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(83).pdf" style="text-decoration:none;">Shape Generation using Spatially Partitioned Point Clouds</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(40).pdf" style="text-decoration:none;">Pedestrian detection combining RGB and dense LIDAR data</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(41).pdf" style="text-decoration:none;">Volumetric and Multi-View CNNs for Object Classification on 3D Data</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(84).pdf" style="text-decoration:none;">Mesh-based Autoencoders for Localized Deformation Component Analysis</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(85).pdf" style="text-decoration:none;">Visual Object Networks: Image Generation with Disentangled 3D Representation</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(42).pdf" style="text-decoration:none;">PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(86).pdf" style="text-decoration:none;">ScanNet: Richly-annotated 3D Reconstructions of Indoor Scenes</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(43).pdf" style="text-decoration:none;">3D-Assisted Feature Synthesis for Novel Views of an Object</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(87).pdf" style="text-decoration:none;">Relative Camera Pose Estimation Using Convolutional Neural Networks</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(44).pdf" style="text-decoration:none;">Multi-view Convolutional Neural Networks for 3D Shape Recognition</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(88).pdf" style="text-decoration:none;">Unsupervised Learning of 3D Structure from Images</a></b></li>
  
  
  
