@@ -87,40 +87,40 @@
  
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(45).pdf" style="text-decoration:none;"> Frustum PointNets for 3D Object Detection from RGB-D Data</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(2).pdf" style="text-decoration:none;">Bioinspired Heuristics for Optimization</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(46).pdf" style="text-decoration:none;">Learning to Generate Chairs, Tables and Cars with Convolutional Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(3).pdf" style="text-decoration:none;">Building Theories: Heuristics and Hypotheses in Sciences</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(4).pdf" style="text-decoration:none;">Data Mining: A Heuristic Approach</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(5).pdf" style="text-decoration:none;">Design of Modern Heuristics: Principles and Application</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(6).pdf" style="text-decoration:none;">Differential Forms: A Heuristic Introduction</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(47).pdf" style="text-decoration:none;">3D Sketching using Multi-View Deep Volumetric Prediction</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(48).pdf" style="text-decoration:none;">Geometric deep learning on graphs and manifolds using mixture model CNNs</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(49).pdf" style="text-decoration:none;">FloorNet: A Unified Framework for Floorplan Reconstruction from 3D Scans</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(50).pdf" style="text-decoration:none;">3D Bounding Box Estimation Using Deep Learning and Geometry</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(7).pdf" style="text-decoration:none;">Trading Heuristics in Financial Markets: Technical Analysis and Round Number Effects</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(51).pdf" style="text-decoration:none;">A Point Set Generation Network for 3D Object Reconstruction from a Single Imag</a></b></li>
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(8).pdf" style="text-decoration:none;"> From a Heuristic Point of View: Essays in Honour of Carlo Cellucci</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(52).pdf" style="text-decoration:none;"> SEGCloud: Semantic Segmentation of 3D Point Clouds</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(9).pdf" style="text-decoration:none;">Heuristics for Evaluating Video Games: A Two-Tier Set Incorporating Universal and Genre-Specific Elements</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(53).pdf" style="text-decoration:none;">ALIGNet: Partial-Shape Agnostic Alignment via Unsupervised Learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(10).pdf" style="text-decoration:none;">Handbook of Heuristics</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(11).pdf" style="text-decoration:none;">Heuristic Algorithms in Bioinformatics</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(12).pdf" style="text-decoration:none;">Heuristic Approaches for Telecommunications Network Management, Planning and Expansion</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(13).pdf" style="text-decoration:none;">Heuristic Reasoning</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(54).pdf" style="text-decoration:none;">The space of human body shapes: reconstruction and parameterization from range scans</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(55).pdf" style="text-decoration:none;">Complete 3D Scene Parsing from an RGBD Image</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(56).pdf" style="text-decoration:none;">ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(57).pdf" style="text-decoration:none;">Deep Hough Voting for 3D Object Detection in Point Clouds</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(14).pdf" style="text-decoration:none;">Heuristic Search: Theory and Applications</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(58).pdf" style="text-decoration:none;">3D-SIC: 3D Semantic Instance Completion for RGB-D Scans</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(15).pdf" style="text-decoration:none;">Heuristic Strategies in the Speeches of Cicero</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(16).pdf" style="text-decoration:none;">Heuristics and Biases: The Psychology of Intuitive Judgment</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(17).pdf" style="text-decoration:none;">Heuristics in Analytics: A Practical Perspective of What Influences Our Analytical World</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(18).pdf" style="text-decoration:none;">Heuristics in Problem Solving for the Teaching and Learning of Mathematics</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(59).pdf" style="text-decoration:none;">Learning Informative Edge Maps for Indoor Scene Layout Prediction</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(60).pdf" style="text-decoration:none;">Pano2CAD: Room Layout From A Single Panorama Image</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(61).pdf" style="text-decoration:none;">Modelling Uncertainty in Deep Learning for Camera Relocalization</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(62).pdf" style="text-decoration:none;">PCPNET Learning Local Shape Properties from Raw Point Clouds</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(19).pdf" style="text-decoration:none;">Heuristics, Metaheuristics and Approximate Methods in Planning and Scheduling</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(63).pdf" style="text-decoration:none;">View Synthesis by Appearance Flow</a></b></li>
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(20).pdf" style="text-decoration:none;">How to Solve It: Modern Heuristics</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(21).pdf" style="text-decoration:none;">Hyper-Heuristics: Theory and Applications</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(64).pdf" style="text-decoration:none;">Interactive 3D Modeling with a Generative Adversarial Network</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(65).pdf" style="text-decoration:none;">3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(22).pdf" style="text-decoration:none;">Machine Learning Of Heuristics</a></b></li>
